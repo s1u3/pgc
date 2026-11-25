@@ -1,0 +1,16 @@
+# Compiled binaries
+race
+critical
+atomic
+barrier
+semaphore
+compare_sync
+*.o
+*.out
+*.exe
+
+# Intermediate outputs and caches
+__pycache__/
+*.pyc
+results/
+*.log
