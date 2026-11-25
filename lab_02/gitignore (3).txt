@@ -1,0 +1,25 @@
+# Compiled Binaries & Executables
+*.o
+*.out
+*.exe
+thread1
+thread2
+thread_sum
+race
+mutex
+pthread_perf
+omp1
+omp_sum
+omp_race
+omp_critical
+omp_barrier
+omp_perf
+sequential_program
+
+# System & Editor Files
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+.vscode/
+.idea/
