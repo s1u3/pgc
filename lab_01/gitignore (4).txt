@@ -1,0 +1,19 @@
+# Compiled binaries
+*.o
+*.out
+*.exe
+matrix_sequential
+matrix_openmp
+matrix_mpi
+mpi_send_recv
+matrix_cuda
+
+# Scratch & build files
+scratch/
+.system_generated/
+*.log
+
+# Temp files
+*.tmp
+.DS_Store
+Thumbs.db
