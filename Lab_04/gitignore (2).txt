@@ -1,0 +1,16 @@
+# Compiled binaries
+false_sharing
+false_sharing.exe
+numa_sweep
+numa_sweep.exe
+compare_numa
+compare_numa.exe
+*.o
+*.out
+*.exe
+
+# Intermediate outputs and caches
+__pycache__/
+*.pyc
+results/
+*.log
