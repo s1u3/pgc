@@ -1,0 +1,7 @@
+*.exe
+*.obj
+*.lib
+*.exp
+*.o
+*.out
+neural_network
